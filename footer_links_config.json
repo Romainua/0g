@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Developers",
+    "links": [
+      {
+        "text": "Documentation",
+        "url": "https://0glabs.gitbook.io/0g-doc"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/0glabs"
+      }
+    ]
+  },
+  {
+    "title": "Community",
+    "links": [
+      {
+        "text": "X",
+        "url": "https://twitter.com/0G_labs"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.com/invite/0glabs"
+      },
+      {
+        "text": "Telegram",
+        "url": "https://t.me/web3_0glabs"
+      },
+      {
+        "text": "YouTube",
+        "url": "https://www.youtube.com/channel/UCp5nMw3iFhqVy9UpnGQ0hdQ"
+      }
+    ]
+  },
+  {
+    "title": "About 0G",
+    "links": [
+      {
+        "text": "Website",
+        "url": "https://0g.ai"
+      },
+      {
+        "text": "Blog",
+        "url": "https://blog.0g.ai/"
+      },
+      {
+        "text": "FAQ",
+        "url": "https://0g.ai/faq"
+      },
+      {
+        "text": "Portal",
+        "url": "https://portal.0g.ai"
+      }
+    ]
+  }
+]
